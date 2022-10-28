@@ -1,4 +1,4 @@
-// QuantumultX/ 南歌
+// QuantumultX / 南歌
 // 更新时间：2022-10-28
 // Telegram：https://t.me/HellohappyTD
 
